@@ -1,35 +1,18 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Podcast - "IA para Todos: Como a Tecnologia Pode Facilitar Sua Vida"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um podcast, voltado para explicar às pessoas que entendem pouco de tecnologia, para que saibam como é importante aprender a usar as novas tecnologias de inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei ChatGPT para criar o título e o roteiro.
+Foi utilizado o ElevenLabs para sintetização de voz, texto para voz especificamente;
+O Capcut foi a ferramenta utilizada para edição do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo do episódio foi criado utilizando o ChatGPT. Em seguida, utilizando o ElevenLabs, foram selecionadas duas vozes, e gravados 5 áudios do roteiro, alternando as vozes, para tornar o episódio mais interessante.
+Através do Capcut foi possível unir os áudios gerados, incluir uma música de fundo, e gerar o arquivo final do episódio. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
