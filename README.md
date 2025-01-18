@@ -15,20 +15,8 @@ O conteúdo do episódio foi criado utilizando o ChatGPT. Em seguida, utilizando
 Através do Capcut foi possível unir os áudios gerados, incluir uma música de fundo, e gerar o arquivo final do episódio. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+lab-natty-or-not/Podcast_IA_Para_Todos.MP3 
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É muito interessante notar como com pouco conhecimento das ferramenta de IA Generativas, e em pouco tempo, é possível gerar novos conteúdos, em formatos de fácil acesso e entendimento para diversas pessoas.
